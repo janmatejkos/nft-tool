@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from "react";
-import { FetchNFTClient } from "./dist";
+// import { FetchNFTClient } from "./dist";
 import "./App.css";
-// const {FetchNFTClient} = require("./dist")
+const {FetchNFTClient} = require("./dist")
 
 // Open Sea Config
 const openSeaConfig = {
